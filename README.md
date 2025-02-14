@@ -36,4 +36,4 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/pavansu
 
 ## Conclusion
 
-The project was successful in answering the set of questions about the employee's performance and attrition patterns. The results of the project can be found in the <a href=https://github.com/Jeyadharshni/IBM-HR-ANALYTIC/blob/main/Result.txt
+The project was successful in answering the set of questions about the employee's performance and attrition patterns. The results of the project can be found in the <ahref=https://github.com/Jeyadharshni/IBM-HR-ANALYTIC/blob/main/Result.txt
